@@ -37,5 +37,5 @@ Resources:
         yum install python3 -y
         pip3 install flask
         cd /home/ec2-user
-        wget https://raw.githubusercontent.com/ebagovtere/my-projects/main/aws/projects/Project-001-Roman-Numerals-Converter/app.py
+        wget 
 Outputs:
